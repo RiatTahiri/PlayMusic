@@ -1,0 +1,22 @@
+.container {
+  min-width: 100vw;
+  background-color: black;
+  font-size: 2.1vw;
+}
+.navigation_bar {
+  color: white;
+  margin: 0 auto;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.navigation_bar_ul {
+  list-style: none;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
